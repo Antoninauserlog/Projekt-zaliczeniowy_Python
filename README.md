@@ -1,1 +1,1 @@
-# Projekt-zaliczeniowy_poprawa
+# Projekt-zaliczeniowy_Python
